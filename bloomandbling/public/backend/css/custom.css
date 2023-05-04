@@ -1,0 +1,7 @@
+.text-center.d-none.d-md-inline {
+    position:absolute;
+    bottom: 0;
+  }
+  a.nav-link {
+    margin-left: 12px;
+}
